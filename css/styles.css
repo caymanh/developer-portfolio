@@ -1,4 +1,31 @@
-.img-fluid {
-    width: 15px;
-    height: 150px;
+/* General */
+.about,
+.contact,
+.portfolio {
+    font-weight: bold;
 }
+
+
+
+/* Contact Page */
+
+label {
+    font-weight: bold;
+}
+
+form {
+    padding: 30px;
+}
+
+.contact-container {
+    background-color: whitesmoke;
+    width: 50%;
+    margin-top: 50px;
+}
+
+.h1-contact {
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+}
+
