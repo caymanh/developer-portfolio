@@ -14,7 +14,8 @@ body {
 
 .contact-container,
 .portfolio-container,
-.about-container {
+.about-container,
+.home-container {
     background-color: whitesmoke;
     width: 70%;
     margin-top: 80px;
