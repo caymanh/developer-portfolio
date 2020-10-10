@@ -1,4 +1,4 @@
-# developer-portfolio
+# Developer Portfolio
 
 ## The Repository
 
