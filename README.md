@@ -7,7 +7,7 @@ This repository ("`Developer Portfolio`") is where we develop a porftolio which 
 ## Developer Portfolio Webpage Mockup
 
 <p align="center">
-  <img alt="Horiseon Webpage" src="https://github.com/caymanh/developer-portfolio/blob/main/images/mock-up.JPG">
+  <img alt="Developer Portfolio" src="https://github.com/caymanh/developer-portfolio/blob/main/images/mock-up.JPG">
 </p>
 
 ## URL
