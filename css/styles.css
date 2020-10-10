@@ -13,8 +13,7 @@ body {
 }
 
 .contact-container,
-.portfolio-container,
-.home-container {
+.portfolio-container {
     background-color: whitesmoke;
     width: 70%;
     margin-top: 80px;
@@ -37,14 +36,27 @@ body {
     text-align: center;
   }
 
-/* Contact Page */
+/* Home Page */
 
-label {
-    font-weight: bold;
+.home-background {
+    background-image: url(../images/background.jpg);
+    background-size: cover;
 }
 
-form {
-    padding: 5rem;
+.home-container {
+    flex: 1;
+}
+
+.intro {
+    text-align: center;
+    font-size: 3.5rem;
+    font-weight: bold;
+    color: white;
+
+}
+
+.name {
+    color: hotpink;
 }
 
 /* About Page */
@@ -71,6 +83,15 @@ form {
     padding: 2rem;
 }
 
+/* Contact Page */
+
+label {
+    font-weight: bold;
+}
+
+form {
+    padding: 5rem;
+}
 
 
 
