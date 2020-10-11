@@ -15,14 +15,10 @@ body {
 .contact-container,
 .portfolio-container {
     background-color: whitesmoke;
-    width: 70%;
-    margin-top: 80px;
-    margin-bottom: 80px;
     flex: 1;
 }
 
-.h1-contact,
-.h1-portfolio {
+.h1-contact {
     text-align: center;
     font-weight: bold;
     padding: 10px;
@@ -89,9 +85,9 @@ label {
     font-weight: bold;
 }
 
-form {
+/* form {
     padding: 5rem;
-}
+} */
 
 
 
