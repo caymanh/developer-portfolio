@@ -11,5 +11,5 @@ This repository ("`Developer Portfolio`") is where we develop a porftolio which 
 </p>
 
 ## URL
-The webpage can be access [here](https://caymanh.github.io/developer-portfolio/)
+The webpage can be accessed [here](https://caymanh.github.io/developer-portfolio/)
 
