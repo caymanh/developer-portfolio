@@ -13,7 +13,8 @@ body {
 }
 
 .contact-container,
-.portfolio-container {
+.portfolio-container,
+.about-container {
     background-color: whitesmoke;
     flex: 1;
 }
@@ -51,10 +52,6 @@ body {
 
 }
 
-.name {
-    color: hotpink;
-}
-
 /* About Page */
 
 .h1-about {
@@ -66,28 +63,12 @@ body {
     text-align: center;
 }
 
-.card-deck {
-    margin-bottom: 40px;
-}
-
-.about-container {
-    background-color: whitesmoke;
-    width: 50%;
-    margin-top: 80px;
-    margin-bottom: 80px;
-    flex: 1;
-    padding: 2rem;
-}
-
 /* Contact Page */
 
 label {
     font-weight: bold;
 }
 
-/* form {
-    padding: 5rem;
-} */
 
 
 
