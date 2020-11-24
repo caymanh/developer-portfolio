@@ -1,5 +1,5 @@
 # Developer Portfolio
-("`Developer Portfolio`") is a portfolio which can be used by freelance web developers. The webpage has been developed to follow accessibility standards so that the site is optimized for search engines. It was built using **HTML, Bootstrap CSS framework, and Javascript**
+("`Developer Portfolio`") is a portfolio site which can be used by freelance web developers to showcase their work. The webpage has been developed to follow accessibility standards so that the site is optimized for search engines. It was built using **HTML, Bootstrap CSS framework, and Javascript**
 
 ## Features 
  * What I Do Section
