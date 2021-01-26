@@ -11,7 +11,10 @@
 ## Mockup
 
 <p align="center">
-  <img alt="Screenshot of Developer Portfolio" src="https://github.com/caymanh/developer-portfolio/blob/main/images/mock-up.JPG">
+  <img alt="Screenshot of Developer Portfolio" src="https://github.com/caymanh/developer-portfolio/blob/main/public/assets/image/screen-shot-01.JPG">
+</p>
+<p align="center">
+  <img alt="Screenshot of Developer Portfolio" src="https://github.com/caymanh/developer-portfolio/blob/main/public/assets/image/screen-shot-02.JPG">
 </p>
 
 ## URL
